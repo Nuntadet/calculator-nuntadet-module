@@ -23,3 +23,5 @@ const cal = require("calculator-nuntadet");
 ```js
 cal.plus(5,3);
 ```
+
+![S__5021725](https://user-images.githubusercontent.com/53287074/61846492-7cff1300-aed1-11e9-9e97-0b19f20d890f.jpg)

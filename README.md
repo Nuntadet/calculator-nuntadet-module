@@ -15,3 +15,9 @@
 ```js
 const cal = require("calculator-nuntadet");
 ```
+
+สำหรับการใช้งาน function `plus()`
+
+```js
+cal.plus(5,3);
+```
